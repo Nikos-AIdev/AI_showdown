@@ -1,0 +1,1 @@
+#### A meeting/convention/conference minutes generator that translates speech to text and creates requested information. It can be provided with attached source file or any other relevant audio file of the user. 
