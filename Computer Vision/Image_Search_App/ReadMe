@@ -1,0 +1,1 @@
+#### A streamlit based application which searches a dataset of photographs, is able to detect a number of objects in each of them and present them according to filters set by the user. Powered with YOLOv11 pretrained model. 
